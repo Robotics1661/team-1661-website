@@ -4,7 +4,7 @@ title: Welcome to the Griffitrons!
 image: /img/home-jumbotron.jpg
 heading: About Us
 subheading: We are a FIRST Robotics Competition team from the Buckley School in
-  Sherman Oaks, CA.
+  Sherman Oaks, CA
 mainpitch:
   title: Some title here (Site currently WIP)
   description: |
