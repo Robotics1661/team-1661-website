@@ -1,33 +1,36 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: GRIFFITRONS PLACE 13 OUT OF 42 TEAMS IN ORANGE COUNTY ROBOTICS COMPETITION
+date: 2022-04-11T07:00:00.000Z
+description: >
+  Buckley's Upper School robotics team, finished up a great season this spring
+  in which they participated in three competitions, each lasting three days.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/robotics-pic-1.jpeg
 tags:
-  - flavor
-  - tasting
+  - competition
+  - FIRST
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Team Picture](/img/robotics-pic-1.jpeg "Team 1661")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+<!--StartFragment-->
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+*Photo contributed by junior Rebeca S.*
 
-## What the updates mean to you
+Team 1661's first competition was in Port Hueneme in Oxnard. The team traveled to Orange County for another competition where they made it to the quarter finals and finished 13 out of 42 teams. Most recently, the team traveled to Fresno for their competition where they placed 21 out of 42 teams.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Like clockwork, the team met everyday after-school from January through March until 6:30 p.m and Saturdays from 9:00 a.m. to 4:00 p.m., dedicating time and energy into preparing for their competitions. \
+\
+“The work was intense. Students worked from morning to evening… \[at the end] each member reported a tremendous sense of accomplishment and success,” said Paul Barker, robotics advisor. Congratulations to Buckley’s Griffitrons on their accomplishments and hard work! 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+The next season will start in January 2023 and end in April, with plans to go to three regional competitions and hope to qualify for the World Competition in Houston.  
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+
+
+*Original: https://www.buckley.org/news-detail?pk=1232034&nc=19844&fromId=217737*
+
+
+
+<!--EndFragment-->
